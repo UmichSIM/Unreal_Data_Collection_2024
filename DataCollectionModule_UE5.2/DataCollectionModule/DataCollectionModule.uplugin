@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2",
+	"FriendlyName": "Data Collection Module",
+	"Description": "A plugin that allows you to export data to a csv file.",
+	"Category": "Other",
+	"CreatedBy": "Howard Yang",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1PUUbLwf0jrCGjIBHMd1rFmswVmntbUUJmAoK2FB9EkY/edit?usp=sharing",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		}
+	]
+}
